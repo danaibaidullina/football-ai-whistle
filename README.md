@@ -57,11 +57,7 @@ Single yellow cards are not reviewed by the panel, so "a yellow that should not 
 - The LLM check catches invented numbers but not misplaced ones.
 
 ## AI usage
-LLM (Claude) was used to: search datasets, choose methods and robustness checks, write and debug code, structure the presentation.
-Provided to it: the assignment text and the outputs of notebook runs (cells, charts), and the error lists from ESPN.
-Checked by the team: every number comes from notebook outputs; results were confirmed by several independent methods; the card-error table was verified against the ESPN lists, and players' clubs were checked by hand.
-Risks found: wrong interpretation, numbers repeated from memory, errors in summaries of web pages. Inside the assistant, a regex validator compares every number in the answer with tool outputs.
-Done by the team: the question (refereeing), running and checking all cells, the decision to extend to 11 leagues, the choice to report negative results, the limitations section.
+Claude (LLM) was used as an assistant as needed.
 
 ## Run
 ```
