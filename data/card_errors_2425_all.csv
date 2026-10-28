@@ -1,0 +1,28 @@
+kind,date,home,away,player,error,favored,source
+second_yellow,2024-09-22,Brighton,Nottingham Forest,Gibbs-White,wrong_second_yellow,home,referee
+second_yellow,2024-10-19,Fulham,Aston Villa,Philogene,wrong_second_yellow,home,referee
+second_yellow,2024-11-02,Ipswich,Leicester,Phillips,wrong_second_yellow,away,referee
+second_yellow,2024-11-23,Bournemouth,Brighton,Baleba,wrong_second_yellow,home,referee
+second_yellow,2024-12-07,Crystal Palace,Man City,Lewis,wrong_second_yellow,home,referee
+second_yellow,2025-02-15,Aston Villa,Ipswich,Tuanzebe,wrong_second_yellow,home,referee
+second_yellow,2025-04-19,Crystal Palace,Bournemouth,Richards,wrong_second_yellow,away,referee
+second_yellow,2025-05-10,Bournemouth,Aston Villa,Ramsey,wrong_second_yellow,home,referee
+second_yellow,2024-09-29,Ipswich,Aston Villa,Morsy,missed_second_yellow,home,referee
+second_yellow,2024-12-01,Tottenham,Fulham,Lukic,missed_second_yellow,away,referee
+second_yellow,2024-12-29,Everton,Nottingham Forest,Tarkowski,missed_second_yellow,home,referee
+second_yellow,2025-01-26,Aston Villa,West Ham,Alvarez,missed_second_yellow,away,referee
+second_yellow,2025-05-10,Southampton,Man City,Ugochukwu,missed_second_yellow,home,referee
+second_yellow,2025-05-10,Southampton,Man City,Downes,missed_second_yellow,home,referee
+second_yellow,2025-05-25,Nottingham Forest,Chelsea,Anderson,missed_second_yellow,home,referee
+red,2024-09-29,Man United,Tottenham,Fernandes,red_not_corrected,away,VAR
+red,2024-11-23,Everton,Brentford,Norgaard,red_incorrectly_recommended,home,VAR
+red,2024-11-23,Aston Villa,Crystal Palace,Maatsen,red_missed,home,VAR
+red,2024-12-21,West Ham,Brighton,Estupinan,red_missed,away,VAR
+red,2024-12-27,Brighton,Brentford,Joao Pedro,red_missed,home,VAR
+red,2025-01-25,Wolves,Arsenal,Lewis-Skelly,red_not_overturned,home,VAR
+red,2025-04-02,Liverpool,Everton,Tarkowski,red_missed,away,VAR
+red,2025-04-27,Bournemouth,Man United,Evanilson,red_incorrectly_recommended,away,VAR
+red,2024-11-23,Leicester,Chelsea,Ndidi,red_missed,home,referee
+red,2024-12-04,Aston Villa,Brentford,Pinnock,red_missed,away,referee
+red,2025-03-08,Brentford,Aston Villa,Collins,red_missed,home,referee
+red,,Man City,Bournemouth,Lewis Cook,red_incorrect,home,referee
